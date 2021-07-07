@@ -1,0 +1,27 @@
+.side
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    width:150px;
+    margin-left: 20px;
+    h1
+    {
+        color: black;
+    }
+    h3
+    {
+        color: grey;
+    }
+    button
+    {
+        height: 40px;
+        width: 120px;
+        border-radius: 25px;
+        background-color: red;
+        color: white;
+        margin-left: 10px;
+    }
+
+} 
